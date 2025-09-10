@@ -52,10 +52,10 @@ This project provides a comprehensive view of an organization’s workforce, cov
 ## 📸 Dashboard Preview  
 
 ### **Main Dashboard**  
-![HR Dashboard Overview](Screenshot%202025-09-10%20at%2012.09.26%20PM.png)  
+![HR Dashboard Overview](https://github.com/cantor08/HR-ANALYTICS/blob/main/dash.png)  
 
 ### **Employee Details Page**  
-![Employee List](Screenshot%202025-09-10%20at%2012.11.23%20PM.png)  
+![Employee List](https://github.com/cantor08/HR-ANALYTICS/blob/main/Employee.png)  
 
 ---
 
